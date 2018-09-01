@@ -1,0 +1,9 @@
+
+
+git add .
+
+git commit -m "write any comment"
+
+git push https://github.com/berkiyagci/Python_HomeWork.git master
+
+
